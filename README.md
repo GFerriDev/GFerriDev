@@ -21,7 +21,7 @@ Me chamo Giovani, tenho 20 anos e sou um estudante de programação, com foco em
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFerriDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFerriDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
