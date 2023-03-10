@@ -28,4 +28,4 @@ Me chamo Giovani, tenho 20 anos e sou um estudante de programação, com foco em
 
 <h3> Redes sociais </h3>
 
-[![Top Langs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gferri_16/) [![Top Langs]
+[![Top Langs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gferri_16/) [![Top Langs](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/giovaniandre.ferri) [![Top Langs](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovani-ferri-ab03601b4/)
