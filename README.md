@@ -1,13 +1,13 @@
 
 <h3> Sobre mim: </h3>
 
-Me chamo Giovani, tenho 20 anos e sou um estudante de programação, com foco em desenvolvimento Backend.
+Desenvolvedor Backend
 
-
+- Experiência profissional: .NET (C# e VB), MVC, ASPNET e Forms
 - Cursando Superior em ADS pelo Instituto Federal de Farroupilha;
 - Certificações em cursos de Javascript/Node, banco de dados SQL e Python.
 
-<i> Um desenvolvedor em desenvolvimento 🏗️  </i>
+
 
 <hr>
 
