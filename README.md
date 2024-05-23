@@ -1,30 +1,29 @@
 
 <h3> Sobre mim: </h3>
 
-Desenvolvedor Backend
+Desenvolvedor FullStack
 
-- Experiência profissional: .NET (C# e VB), MVC, ASPNET e Forms
-- Cursando Superior em ADS pelo Instituto Federal de Farroupilha;
-- Certificações em cursos de Javascript/Node, banco de dados SQL e Python.
+- Experiência profissional: .NET (C# e VB), MVC, ASPNET e Forms - SQL Server e PostgreSQL
+- Cursando Superior em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Farroupilha;
+- Certificações em SQL e Python;
+- Azure Cloud.
+
+*Esse não é um perfil profissional, apenas para repositórios de treinos
+
+<h3> About Me: </h3>
+
+FullStack Developer
+
+- Professional experiences: .NET (C# e VB), MVC, ASPNET e Forms - SQL Server e PostgreSQL
+- Pursuing a Bachelor's Degree in Systems Analysis and Development at the Federal Institute of Rio Grande do Sul;
+- Python and SQL certifications;
+- Azure Cloud.
 
 
-
-<hr>
-
-
-<h3> Principais técnologias: </h3>
-
-
-
-![Skill1](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Skill2](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Skill3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Skill4](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GFerriDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+*This is not a professional profile, just for training repositories.
 
 <hr>
+
 
 <h3> Redes sociais </h3>
 
